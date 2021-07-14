@@ -1,5 +1,7 @@
 # histogramRangeSelector
 
+[![View histogramRangeSelector on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95833-histogramrangeselector)
+
 Version: 1.0
 
 ![histogramRangeSelector](/example_histogramRangeSelector.png)
