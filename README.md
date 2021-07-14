@@ -22,5 +22,3 @@ set(c,'HistogramBinEdges',x,'HistogramBinCounts',n);
 c.MinChangedFcn=@myMinChangedFunction;
 c.MaxChangedFcn=@myMaxChangedFunction;
 ```
-
-Some additional demo apps are included: histogramRangeSelectorDemo which lets you set the RGB ranges for an image, and histogramRangeSelectorWebcamDemo which subclasses histogramRangeSelectorDemo and uses your webcam for the image data. Note that this requires MATLAB Support Package for USB Webcams 
